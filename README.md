@@ -20,6 +20,7 @@ THEN I find a concise, descriptive title
 
 
 ### Screenshots
-![Screenshot](https://github.com/ashagm/Code_Refactor/tree/main/assets/images/ss1.png)
+![Screenshot1](https://github.com/ashagm/Code_Refactor/tree/main/assets/images/ss1.png)
+![Screenshot2](https://github.com/ashagm/Code_Refactor/tree/main/assets/images/ss2.png)
 
 #### [Click here for deployed link](https://ashagm.github.io/Code_Refactor/)
